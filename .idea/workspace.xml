@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="789320c2-8b33-41c5-9938-064701de9e80" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/010geradordecpf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/funcoes_basico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/nomeado_e_posicionais.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Colab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/lista_listada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/009lista_listada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/só_pra_salvar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AntunesKyon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AntunesKyon/Estudos.git&quot;,
+    &quot;accountId&quot;: &quot;6042855b-3c89-46cf-b41c-79fe324138a4&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3BEbKJ2wjSOshzuc6VqMO2QiWI5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.001.executor": "Run",
+    "Python.002.executor": "Run",
+    "Python.003.executor": "Run",
+    "Python.005.executor": "Run",
+    "Python.006_calcula.executor": "Run",
+    "Python.007_WHILEELSE.executor": "Run",
+    "Python.010geradordecpf.executor": "Run",
+    "Python.78985255.executor": "Run",
+    "Python.contagemdeletraswhile.executor": "Debug",
+    "Python.desempacotamentofunc.executor": "Run",
+    "Python.empacotamento_E_Desempacotamento.executor": "Run",
+    "Python.enumerate.executor": "Run",
+    "Python.fateamentoStrings.executor": "Run",
+    "Python.funcoes_basico.executor": "Run",
+    "Python.idempy.executor": "Run",
+    "Python.introdução_try.executor": "Run",
+    "Python.lista_listada.executor": "Run",
+    "Python.listabasico.executor": "Run",
+    "Python.listabasico_2.executor": "Run",
+    "Python.listasemlistas.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.metodos.executor": "Run",
+    "Python.metodoss.executor": "Run",
+    "Python.nomeado_e_posicionais.executor": "Run",
+    "Python.none_basico.executor": "Run",
+    "Python.palavsecret.executor": "Run",
+    "Python.pragastarbateria.executor": "Run",
+    "Python.range_basico.executor": "Run",
+    "Python.ternaria.executor": "Run",
+    "Python.testsss.executor": "Run",
+    "Python.tipos_built-in_documentação_tipo imutáveis_métodos_de_string.executor": "Run",
+    "Python.tupla_basica.executor": "Run",
+    "Python.velocidadecarro.executor": "Run",
+    "Python.while_basico.executor": "Run",
+    "Python.while_contador.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jvaob\PycharmProjects\Estudos\Curso_de_Python_LuizOtávio" />
+      <recent name="C:\Users\jvaob\PycharmProjects\Estudos\Curso_de_Python_LuizOtávio\Modulo-3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Estudos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metodos" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="Estudos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/metodos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789320c2-8b33-41c5-9938-064701de9e80" name="Changes" comment="" />
+      <created>1774057111622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774057111622</updated>
+      <workItem from="1774057113362" duration="33605000" />
+      <workItem from="1774675957196" duration="10342000" />
+      <workItem from="1774868924941" duration="75000" />
+      <workItem from="1774970112556" duration="822000" />
+      <workItem from="1775027214635" duration="60000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1774058581357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774058581369</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1774150930384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774150930385</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1774151152292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774151152292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="..">
+      <option name="closed" value="true" />
+      <created>1774200624728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774200624728</updated>
+    </task>
+    <task id="LOCAL-00005" summary="...">
+      <option name="closed" value="true" />
+      <created>1774676209765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774676209765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="...">
+      <option name="closed" value="true" />
+      <created>1774803140765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774803140765</updated>
+    </task>
+    <task id="LOCAL-00007" summary="...">
+      <option name="closed" value="true" />
+      <created>1775161071311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775161071311</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value=".." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/introdução_try.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/003.py</url>
+          <line>4</line>
+          <option name="temporary" value="true" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/while_basico.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/while_contador.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/while_contador.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/005.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/contagemdeletraswhile.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/enumerate.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/009lista_listada.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Estudos$empacotamento_E_Desempacotamento.coverage" NAME="empacotamento_E_Desempacotamento Coverage Results" MODIFIED="1774970792256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$006_calcula.coverage" NAME="006_calcula Coverage Results" MODIFIED="1774270787548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$introdução_try.coverage" NAME="introdução_try Coverage Results" MODIFIED="1774138014735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$tipos_built_in_documentação_tipo_imutáveis_métodos_de_string.coverage" NAME="tipos_built-in_documentação_tipo imutáveis_métodos_de_string Coverage Results" MODIFIED="1774209074219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$none_basico.coverage" NAME="none_basico Coverage Results" MODIFIED="1774150879910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$velocidadecarro.coverage" NAME="velocidadecarro Coverage Results" MODIFIED="1774149000717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$001.coverage" NAME="001 Coverage Results" MODIFIED="1774061331790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$007_WHILEELSE.coverage" NAME="007_WHILEELSE Coverage Results" MODIFIED="1774271317550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$listabasico_2.coverage" NAME="listabasico_2 Coverage Results" MODIFIED="1774812689981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$palavsecret.coverage" NAME="palavsecret Coverage Results" MODIFIED="1774757546412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$005.coverage" NAME="005 Coverage Results" MODIFIED="1774209748158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$78985255.coverage" NAME="78985255 Coverage Results" MODIFIED="1774364421916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$listabasico.coverage" NAME="listabasico Coverage Results" MODIFIED="1774808145806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$002.coverage" NAME="002 Coverage Results" MODIFIED="1774151510676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$while_basico.coverage" NAME="while_basico Coverage Results" MODIFIED="1774196992881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$testsss.coverage" NAME="testsss Coverage Results" MODIFIED="1774719485736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio" />
+    <SUITE FILE_PATH="coverage/Estudos$range_basico.coverage" NAME="range_basico Coverage Results" MODIFIED="1774544895932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$idempy.coverage" NAME="idempy Coverage Results" MODIFIED="1774149501633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$main.coverage" NAME="main Coverage Results" MODIFIED="1774970494386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Estudos$fateamentoStrings.coverage" NAME="fateamentoStrings Coverage Results" MODIFIED="1774058282756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$003.coverage" NAME="003 Coverage Results" MODIFIED="1774152133392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc" />
+    <SUITE FILE_PATH="coverage/Estudos$while_contador.coverage" NAME="while_contador Coverage Results" MODIFIED="1774206967219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+    <SUITE FILE_PATH="coverage/Estudos$contagemdeletraswhile.coverage" NAME="contagemdeletraswhile Coverage Results" MODIFIED="1774534909876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3" />
+  </component>
+</project>
