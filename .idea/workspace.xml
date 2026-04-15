@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789320c2-8b33-41c5-9938-064701de9e80" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/010geradordecpf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/funcoes_basico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/nomeado_e_posicionais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Colab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/lista_listada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/009lista_listada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/só_pra_salvar" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/escopofuncao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/exerc/funcao_variosval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/exerc/par_ou_impar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/valoresPradãoparaParametros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +63,14 @@
     "Python.007_WHILEELSE.executor": "Run",
     "Python.010geradordecpf.executor": "Run",
     "Python.78985255.executor": "Run",
+    "Python.args.executor": "Run",
     "Python.contagemdeletraswhile.executor": "Debug",
     "Python.desempacotamentofunc.executor": "Run",
     "Python.empacotamento_E_Desempacotamento.executor": "Run",
     "Python.enumerate.executor": "Run",
+    "Python.escopofuncao.executor": "Debug",
     "Python.fateamentoStrings.executor": "Run",
+    "Python.funcao_variosval.executor": "Run",
     "Python.funcoes_basico.executor": "Run",
     "Python.idempy.executor": "Run",
     "Python.introdução_try.executor": "Run",
@@ -80,12 +84,16 @@
     "Python.nomeado_e_posicionais.executor": "Run",
     "Python.none_basico.executor": "Run",
     "Python.palavsecret.executor": "Run",
+    "Python.par_ou_impar.executor": "Run",
     "Python.pragastarbateria.executor": "Run",
     "Python.range_basico.executor": "Run",
+    "Python.return.executor": "Run",
     "Python.ternaria.executor": "Run",
     "Python.testsss.executor": "Run",
+    "Python.threading.executor": "Debug",
     "Python.tipos_built-in_documentação_tipo imutáveis_métodos_de_string.executor": "Run",
     "Python.tupla_basica.executor": "Run",
+    "Python.valoresPradãoparaParametros.executor": "Run",
     "Python.velocidadecarro.executor": "Run",
     "Python.while_basico.executor": "Run",
     "Python.while_contador.executor": "Run",
@@ -110,8 +118,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jvaob\PycharmProjects\Estudos\Curso_de_Python_LuizOtávio" />
       <recent name="C:\Users\jvaob\PycharmProjects\Estudos\Curso_de_Python_LuizOtávio\Modulo-3" />
+      <recent name="C:\Users\jvaob\PycharmProjects\Estudos\Curso_de_Python_LuizOtávio" />
     </key>
   </component>
   <component name="RunManager">
@@ -343,6 +351,20 @@
           <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-3/exerc/009lista_listada.py</url>
           <line>14</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/escopofuncao.py</url>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/escopofuncao.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Curso_de_Python_LuizOtávio/Modulo-4/escopofuncao.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
